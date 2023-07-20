@@ -5,6 +5,7 @@
 
 🖥 Foi utilizada a biblioteca 'tkinter' neste projeto
 
+
 📌 importando tkinter
 
 from tkinter import *
